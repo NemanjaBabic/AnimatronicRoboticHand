@@ -1,6 +1,6 @@
 # AnimatronicRoboticHand
 
-http://nemanjababic.com/index.php/projects/fall-2014/
+https://www.youtube.com/watch?v=fKvwzH716u0
 
 .:: TECHNICAL SUPPORT ::.
 
